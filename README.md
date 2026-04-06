@@ -2,18 +2,29 @@
 
 🚀 Shopify Developer & eCommerce Specialist
 
-I build high-converting Shopify stores with clean UX, fast performance, and scalable structure.
+🔷 Shopify & Shopify Plus Development  
+🔷 Custom Themes & Advanced Sections  
+🏆 Conversion-Focused eCommerce Solutions  
+🚀 Performance, UX & Scalable Store Builds  
 
----
+💼 10+ Years Experience in Web & eCommerce Development  
 
-## 💼 What I Do
-- Custom Shopify Theme Development
-- Product Page Optimization
-- A+ Content & Landing Pages
-- Performance Optimization
-- Custom Features (Wishlist, Sliders)
+I specialize in Shopify & Shopify Plus, helping brands build and scale high-performing stores with clean UI/UX, fast performance, and strong conversion focus.
 
----
+From custom theme development to advanced sections and A+ content, I create scalable, mobile-first eCommerce experiences tailored to real business needs.
+
+SPECIALITIES:
+------------------
+✔ Shopify & Shopify Plus Development  
+✔ Custom Theme & Section Development  
+✔ A+ Content & Product Page Optimization  
+✔ UI/UX Improvements for better conversion  
+✔ Speed Optimization & Performance  
+✔ Advanced Features (Wishlist, Sliders, Variant UX)  
+✔ Store Setup & Customization  
+
+## 🛠 Tech
+Shopify (Liquid), JavaScript, HTML, CSS, Api, Ajax, Shopify Plus
 
 ## 🛍️ Work
 
@@ -30,6 +41,3 @@ I build high-converting Shopify stores with clean UX, fast performance, and scal
 11: jiwa.in  
 
 ---
-
-## 🛠 Tech
-Shopify (Liquid), JavaScript, HTML, CSS, Api, Ajax, Shopify Plus
